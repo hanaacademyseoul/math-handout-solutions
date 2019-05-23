@@ -5,3 +5,11 @@
 1. 모든 C단계 프린트의 풀이
 2. 모든 B단계 프린트의 풀이
 3. 수학 선생님께 <strike>까임</strike>검수받기
+
+# 포맷
+- 폰트는 Noto Serif CJK KR
+- 여백은 0.75인치 (다음과 같이 설정 가능)
+```tex
+\usepackage[margin=0.75in]{geometry}
+```
+- `lualatex` 이용
