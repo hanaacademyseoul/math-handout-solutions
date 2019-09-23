@@ -271,6 +271,3 @@ TSWLatexianTemp*
 *.glstex
 
 # End of https://www.gitignore.io/api/latex
-
-# LaTeX artifacts can be ignored in this project.
-*.pdf
