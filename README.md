@@ -1,3 +1,5 @@
+> Repo를 [Project Eclipse GitHub Organization](https://github.com/project-eclipse/2019-semester2-midterm)으로 옮겼습니다. 이 Repo는 Deprecate되었음을 숙지하시기 바랍니다.
+
 <p align="center">
 <img src="./logo.png" />
 </p>
